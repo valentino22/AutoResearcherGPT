@@ -5,3 +5,7 @@ pydantic==1.*
 langchain
 bs4
 tiktoken
+uvicorn[standard]
+streamlit
+unstructured
+playwright
