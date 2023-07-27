@@ -1,3 +1,7 @@
+# Auto Researcher GPT 
+
+Based on this video [https://www.youtube.com/watch?v=zP8JUbyCUk0](https://www.youtube.com/watch?v=zP8JUbyCUk0).
+
 ### To run the API
 `uvicorn app:app --reload`
 
